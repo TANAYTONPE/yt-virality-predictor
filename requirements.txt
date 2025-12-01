@@ -1,0 +1,6 @@
+google-api-python-client
+pandas
+python-dateutil
+tqdm
+numpy
+python-dotenv
